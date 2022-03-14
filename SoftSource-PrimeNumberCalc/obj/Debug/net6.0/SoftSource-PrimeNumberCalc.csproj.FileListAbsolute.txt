@@ -1,0 +1,15 @@
+C:\Users\steve\source\repos\SoftSource-PrimeNumberCalc\SoftSource-PrimeNumberCalc\bin\Debug\net6.0\SoftSource-PrimeNumberCalc.exe
+C:\Users\steve\source\repos\SoftSource-PrimeNumberCalc\SoftSource-PrimeNumberCalc\bin\Debug\net6.0\SoftSource-PrimeNumberCalc.deps.json
+C:\Users\steve\source\repos\SoftSource-PrimeNumberCalc\SoftSource-PrimeNumberCalc\bin\Debug\net6.0\SoftSource-PrimeNumberCalc.runtimeconfig.json
+C:\Users\steve\source\repos\SoftSource-PrimeNumberCalc\SoftSource-PrimeNumberCalc\bin\Debug\net6.0\SoftSource-PrimeNumberCalc.dll
+C:\Users\steve\source\repos\SoftSource-PrimeNumberCalc\SoftSource-PrimeNumberCalc\bin\Debug\net6.0\ref\SoftSource-PrimeNumberCalc.dll
+C:\Users\steve\source\repos\SoftSource-PrimeNumberCalc\SoftSource-PrimeNumberCalc\bin\Debug\net6.0\SoftSource-PrimeNumberCalc.pdb
+C:\Users\steve\source\repos\SoftSource-PrimeNumberCalc\SoftSource-PrimeNumberCalc\obj\Debug\net6.0\SoftSource-PrimeNumberCalc.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\SoftSource-PrimeNumberCalc\SoftSource-PrimeNumberCalc\obj\Debug\net6.0\SoftSource-PrimeNumberCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\source\repos\SoftSource-PrimeNumberCalc\SoftSource-PrimeNumberCalc\obj\Debug\net6.0\SoftSource-PrimeNumberCalc.AssemblyInfoInputs.cache
+C:\Users\steve\source\repos\SoftSource-PrimeNumberCalc\SoftSource-PrimeNumberCalc\obj\Debug\net6.0\SoftSource-PrimeNumberCalc.AssemblyInfo.cs
+C:\Users\steve\source\repos\SoftSource-PrimeNumberCalc\SoftSource-PrimeNumberCalc\obj\Debug\net6.0\SoftSource-PrimeNumberCalc.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\SoftSource-PrimeNumberCalc\SoftSource-PrimeNumberCalc\obj\Debug\net6.0\SoftSource-PrimeNumberCalc.dll
+C:\Users\steve\source\repos\SoftSource-PrimeNumberCalc\SoftSource-PrimeNumberCalc\obj\Debug\net6.0\ref\SoftSource-PrimeNumberCalc.dll
+C:\Users\steve\source\repos\SoftSource-PrimeNumberCalc\SoftSource-PrimeNumberCalc\obj\Debug\net6.0\SoftSource-PrimeNumberCalc.pdb
+C:\Users\steve\source\repos\SoftSource-PrimeNumberCalc\SoftSource-PrimeNumberCalc\obj\Debug\net6.0\SoftSource-PrimeNumberCalc.genruntimeconfig.cache
